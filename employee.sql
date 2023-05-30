@@ -1,3 +1,8 @@
+#Author  : Harikrishna
+#Creation_Date : 30 May 2023
+#
+
+
 CREATE TABLE
   employees ( employee_id INT,
     first_name string,
